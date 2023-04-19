@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Katy</h1>
 <h3 align="center">I'm a Frontend developer</h3>
 
-<img src="https://profile-counter.glitch.me/KatyEkat/count.svg">   
-
 - 🌱 I’m currently learning **React framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KatyEkat?tab=repositories](https://github.com/KatyEkat?tab=repositories)
