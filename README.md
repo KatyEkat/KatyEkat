@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Katy's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Katy's+Github+Profile..💫)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Katy</h1>
 <h3 align="center">I'm a Frontend developer</h3>
