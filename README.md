@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Katy</h1>
 <h3 align="center">I'm a Frontend developer</h3>
 
-- 🌱 I’m currently learning **React framework**
+- 🌱 I’m currently learning **React and Vue frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KatyEkat?tab=repositories](https://github.com/KatyEkat?tab=repositories)
 
