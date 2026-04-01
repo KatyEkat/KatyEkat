@@ -29,4 +29,4 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/> </a>
   </p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatyEkat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatyEkat&layout=compact&theme=tokyonight)
