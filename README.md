@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Katy's+Github+Profile..💫)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Katy</h1>
-<h3 align="center">I'm a Frontend developer</h3>
+<h3 align="center">I'm a Frontend developer / AQA Enjineer</h3>
 
 - 🌱 I’m currently learning **React and Vue frameworks**
 - 👨‍💻 All of my projects are available at [https://github.com/KatyEkat?tab=repositories](https://github.com/KatyEkat?tab=repositories)
